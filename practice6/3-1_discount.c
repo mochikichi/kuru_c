@@ -21,4 +21,5 @@ int main(void)
     printf("3割引は%d円です。\n", (int)(list_price * discount_30));
     printf("5割引は%d円です。\n", (int)(list_price * discount_50));
     printf("8割引は%d円です。\n", (int)(list_price * discount_80));
+    return 0;
 }
